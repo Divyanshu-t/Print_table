@@ -1,0 +1,3 @@
+	
+		Inter any number and print his Table 
+		Using parseInt - prompt 
